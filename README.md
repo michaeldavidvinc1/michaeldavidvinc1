@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - Self Improvement
 
 ### 🚀 How to reach me:
-- Web: [Michael David Vinc](https://michaeldavidvinc1.github.io)
+<!-- - Web: [Michael David Vinc](https://michaeldavidvinc1.github.io) -->
 - Email: [tawie18102000@gmail.com](tawie18102000@gmail.com)
 - LinkedIn: [Michael David](https://www.linkedin.com/in/michael-david-vinc-9b096a210/)
 
