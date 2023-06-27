@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=michaeldavidvinc1.michaeldavidvinc1) -->
 
-## 💻 Experiences
+## 💻 Tools & Language || Framework
 - GIT (VCS)
 - React Web (*Hooks, Context API, Redux*)
 - Express JS
