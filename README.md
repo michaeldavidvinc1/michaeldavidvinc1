@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <br />
 
 
-### 📕 Blog Posts
+<!--### 📕 Blog Posts
 - [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
 - [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=michaeldavidvinc1.michaeldavidvinc1)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=michaeldavidvinc1.michaeldavidvinc1) -->
