@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Back End Developer](https://www.rsmurniteguh.com/) - (Okt'22-Jan'23)
-- [Web Developer](https://www.aprilasia.com/en/) - (Feb'23-Present)
+- [Back End Developer](https://www.rsmurniteguh.com/) - (Aug'22-Jan'23)
+- [Web Developer](https://www.aprilasia.com/en/) - (Feb'23-Oct'23)
 
 ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Michael's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&langs_count=8&hide_border=true)
