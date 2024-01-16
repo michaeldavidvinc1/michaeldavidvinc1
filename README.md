@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 ---
 
-© 2023 — Michael David Vinc 😄
+© 2024 — Michael David Vinc 😄
