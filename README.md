@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### 🚀 How to reach me:
 <!-- - Web: [Michael David Vinc](https://michaeldavidvinc1.github.io) -->
-- Email: [michaeldavidvinc3006@gmail.com](michaeldavidvinc3006gmail.com)
+- Email: [michaeldavidvinc3006@gmail.com](michaeldavidvinc3006gmail.com) 
 - LinkedIn: [Michael David](https://www.linkedin.com/in/michael-david-vinc-9b096a210/)
 
 ---
