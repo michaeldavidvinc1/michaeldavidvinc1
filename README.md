@@ -32,15 +32,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="#" target="_blank" rel="noreferrer"> <img
-      src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"
       alt="android" width="40" height="40" /> 
     </a> 
     <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTw3HApB4bsvabXW3L14cV-LhFo0L71QmEESJN3vW9Ow&s"
+    <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"
       alt="bootstrap" width="40" height="40" /> 
     </a> 
     <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+    rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png"
       alt="c" width="40" height="40" /> 
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
