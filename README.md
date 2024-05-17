@@ -83,16 +83,7 @@
 <br>
 <br>
 
-<div style="display: 'flex'">    
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeldavidvinc1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="michaeldavidvinc1" 
-    bg_color=#808080/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-</div>
+[![MichaelDavid' GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/michaeldavidvinc1) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/michaeldavidvinc1) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeldavidvinc1&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="michaeldavidvinc1" /></p>
       
