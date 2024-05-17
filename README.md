@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael David Vinc</h1>
-<h3 align="center">Web Developer🌟.</h3>
+<h3 align="center">Web Developer</h3>
 
 <br>
 
