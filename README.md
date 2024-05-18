@@ -47,7 +47,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=michaeldavidvinc1)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=michaeldavidvinc1" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
