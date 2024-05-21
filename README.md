@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Golang.**
 
-- ☁️ I've keen interest in web development. So,I'm learning **Golang**
+- ☁️ I've keen interest in web development. So,I'm learning **Java**
 
 - 📫 Feel free to reach me out **michaeldavidvinc3006@gmail.com**
 
