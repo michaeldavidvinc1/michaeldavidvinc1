@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Laravel, React, Vuejs, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **Golang.**
+- 🌱 I’m currently learning **Java.**
 
 - ☁️ I've keen interest in web development. So,I'm learning **Java**
 
