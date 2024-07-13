@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Laravel, React, Vuejs, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Laravel, React, Vuejs, Nodejs, MongoDB, Java**
 
 - 🌱 I’m currently learning **Java.**
 
