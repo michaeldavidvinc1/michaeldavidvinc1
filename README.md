@@ -43,7 +43,7 @@
 </div>
 <div align="center">
   <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Dum6o&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j&background=0d1117&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
+      src="https://github-readme-streak-stats.herokuapp.com?user=michaeldavidvinc1&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j&background=0d1117&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
       alt="Dum6o GitHub Streak">
   <img src="https://activity-graph.herokuapp.com/graph?username=michaeldavidvinc1&theme=react-dark"/>
 </div>
