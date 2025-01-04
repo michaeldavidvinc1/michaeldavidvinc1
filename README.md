@@ -59,7 +59,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,prisma,express,github,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,laravel,php,spring&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,prisma,express,github,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,laravel,php,supabase,spring&perline=14" />
   </a>
 </p>
 
