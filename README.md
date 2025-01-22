@@ -24,7 +24,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Laravel, MERN, Java**
+- 🔭 I’m currently working on **Laravel, MERN, Java, Next JS**
 
 - 🌱 I’m currently learning **Java.**
 
