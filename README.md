@@ -41,7 +41,7 @@
 
 <!-- Technologies Section -->
 <div align="center">
-  <h1>Technologies That I Know 👨🏻‍💻</h1>
+  <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
     <img src="https://skillicons.dev/icons?i=git,postgres,prisma,express,github,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,laravel,php,supabase,spring&perline=8" alt="Tech Stack Icons"/>
 </div>
 
