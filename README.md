@@ -16,42 +16,36 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
+<div align="center">
+  <h2>Confusion is part of Programming</h2>
 </div>
 
+<!--- Stats & Trophy Section -->
+<div align="center">
+  <img align="right" width="300" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+  <div align="left">
+    <!-- Intro Start -->
+    <ul>
+      <li>🔭 I’m currently working on <b>Laravel, MERN, Java, Next JS</b></li>
+      <li>🌱 I’m currently learning <b>Java</b></li>
+      <li>☁️ I've keen interest in web development. So, I'm learning <b>Java</b></li>
+      <li>📫 Feel free to reach me out at <b>michaeldavidvinc3006@gmail.com</b></li>
+    </ul>
+    <!-- Intro End -->
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Laravel, MERN, Java, Next JS**
-
-- 🌱 I’m currently learning **Java.**
-
-- ☁️ I've keen interest in web development. So,I'm learning **Java**
-
-- 📫 Feel free to reach me out **michaeldavidvinc3006@gmail.com**
-
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-<div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-  <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+    <div align="center">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="Top Languages"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="Stats"/>
+    </div>
+  </div>
 </div>
-<!--tech stack icons-->
-<p align="center">
+
+<!-- Technologies Section -->
+<div align="center">
+  <h2>Technologies That I Know 👨🏻‍💻</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,prisma,express,github,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,laravel,php,supabase,spring&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,prisma,express,github,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,laravel,php,supabase,spring&perline=8" alt="Tech Stack Icons"/>
   </a>
-</p>
 </div>
 
 
