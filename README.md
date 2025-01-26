@@ -37,9 +37,7 @@
 <!-- Technologies Section -->
 <div align="center">
   <h2>Technologies That I Know 👨🏻‍💻</h2>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postgres,prisma,express,github,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,laravel,php,supabase,spring&perline=8" alt="Tech Stack Icons"/>
-  </a>
 </div>
 
 <div align="center">
