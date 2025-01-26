@@ -14,7 +14,8 @@
   <img alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 </div>
 
-<div align="center" style="margin-top:20px">
+<br />
+<div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
