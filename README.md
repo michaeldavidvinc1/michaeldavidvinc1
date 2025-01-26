@@ -41,14 +41,7 @@
 <div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-</div>
-
-
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
+  <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
@@ -59,6 +52,14 @@
     <img src="https://skillicons.dev/icons?i=git,postgres,prisma,express,github,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,laravel,php,supabase,spring&perline=14" />
   </a>
 </p>
+</div>
+
+
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+
 
 
 <!-- Connect with me -->
