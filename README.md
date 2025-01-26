@@ -31,11 +31,6 @@
       <li>☁️ I've keen interest in web development. So, I'm learning <b>Java</b></li>
       <li>📫 Feel free to reach me out at <b>michaeldavidvinc3006@gmail.com</b></li>
     </ul>
-
-    <div align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-    </div>
   </div>
 </div>
 
@@ -47,11 +42,11 @@
   </a>
 </div>
 
+<div align="center">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+    </div>
 
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
 
 
 
