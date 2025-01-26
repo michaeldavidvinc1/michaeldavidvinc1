@@ -37,7 +37,7 @@
 
 
 <!--- stats & Trophy (start) -->
-<div align="center">
+<div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
