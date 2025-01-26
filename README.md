@@ -24,7 +24,7 @@
 <div align="center">
   <h2>Confusion is part of Programming</h2>
 </div>
-
+<br />
 <!--- Stats & Trophy Section -->
 <div align="center">
   <img align="right" width="300" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
@@ -44,8 +44,7 @@
   <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
     <img src="https://skillicons.dev/icons?i=git,postgres,prisma,express,github,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,laravel,php,supabase,spring&perline=8" alt="Tech Stack Icons"/>
 </div>
-
-
+<br />
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -74,4 +73,3 @@
 
 Credit: [MichaelDavidVinc](https://github.com/michaeldavidvinc1)
 
-Last Edited on: 17/5/2024
