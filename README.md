@@ -31,9 +31,9 @@
   <div align="left">
     <!-- Intro Start -->
     <ul>
-      <li>🔭 I’m currently working on <b>Laravel, MERN, Java, Next JS</b></li>
-      <li>🌱 I’m currently learning <b>Java</b></li>
-      <li>☁️ I've keen interest in web development. So, I'm learning <b>Java</b></li>
+      <li>🔭 I’m currently working on <b>Laravel, MERN, Golang, Next JS</b></li>
+      <li>🌱 I’m currently learning <b>Golang</b></li>
+      <li>☁️ I've keen interest in web development. So, I'm learning <b>Golang</b></li>
       <li>📫 Feel free to reach me out at <b>michaeldavidvinc3006@gmail.com</b></li>
     </ul>
   </div>
