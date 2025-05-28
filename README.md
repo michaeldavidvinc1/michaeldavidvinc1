@@ -21,6 +21,7 @@
 </div>
 
 <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaeldavidvinc1&theme=radical" alt="Hoang Son's GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&langs_count=20&theme=radical" alt="Hoang Son's Languages" />
 </div>
 
