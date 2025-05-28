@@ -20,6 +20,10 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&langs_count=20&theme=radical" alt="Hoang Son's Languages" />
+</div>
+
 <!--h2 without bottom border-->
 <div align="center">
   <h2>Confusion is part of Programming</h2>
