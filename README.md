@@ -18,8 +18,7 @@
 <div align="center">
   <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/> -->
-    <img height="150em" src="![michaeldavidvinc1's Stats](https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="tienhuynh-tn-stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
   </div>
 </div>
 
