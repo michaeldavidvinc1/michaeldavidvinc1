@@ -80,7 +80,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase" alt="Databases"/>
   
   <h3>Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,nginx,jetbrains" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,nginx,webstorm,phpstorm" alt="Tools"/>
 </div>
 
 
