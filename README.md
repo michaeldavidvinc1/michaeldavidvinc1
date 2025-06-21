@@ -106,14 +106,14 @@
   </p>
 </div>
 
-<!-- Support Section -->
+<!-- Support Section
 <div align="center">
   <h2>☕ Support My Work</h2>
   <p>If you like my work and want to support me, consider buying me a coffee!</p>
   <a href="https://www.buymeacoffee.com/michaeldavidvinc" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
-</div>
+</div> -->
 
 <!-- Footer -->
 <div align="center">
