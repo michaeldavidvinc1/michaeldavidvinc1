@@ -42,7 +42,7 @@
   <h2>📊 GitHub Statistics</h2>
   <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+    <img height="150em" src="https://raw.githubusercontent.com/michaeldavidvinc1/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Top Languages"/>
   </div>
 </div>
 
