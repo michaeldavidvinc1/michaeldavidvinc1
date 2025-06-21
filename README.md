@@ -41,8 +41,8 @@
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
   </div>
 </div>
 
