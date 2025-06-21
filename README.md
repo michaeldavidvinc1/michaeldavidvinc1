@@ -48,7 +48,7 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=michaeldavidvinc1&theme=algolia" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=michaeldavidvinc1&theme=algolia" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
