@@ -71,34 +71,23 @@
   <img src="https://skillicons.dev/icons?i=js,ts,php,go,html,css,python" alt="Languages"/>
   
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
   
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma,graphql" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma,go" alt="Backend"/>
   
   <h3>Databases</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase" alt="Databases"/>
   
   <h3>Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,nginx" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,nginx,jetbrains" alt="Tools"/>
 </div>
 
-<!-- Coding Activity -->
-<div align="center">
-  <h2>⚡ Recent Activity</h2>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michaeldavidvinc1&theme=algolia&layout=compact" alt="Wakatime Stats" />
-</div>
 
 <!-- Quote -->
 <div align="center">
   <h2>💭 Dev Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <h2>🐍 Contribution Snake</h2>
-  <img src="https://raw.githubusercontent.com/michaeldavidvinc1/michaeldavidvinc1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Connect Section -->
