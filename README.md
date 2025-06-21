@@ -43,7 +43,7 @@
   <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=michaeldavidvinc1&theme=algolia)](https://git.io/streak-stats)
   </div>
 </div>
 
