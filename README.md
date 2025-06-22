@@ -51,17 +51,16 @@
   <img src="https://streak-stats.demolab.com?user=michaeldavidvinc1&theme=algolia" alt="GitHub Streak" />
 </div>
 
-<!-- Activity Graph -->
+<!-- Activity Graph
 <div align="center">
   <h2>📈 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaeldavidvinc1&theme=github-compact&bg_color=ffffff&color=00b4d8&line=0077b6&point=0096c7&area=true&hide_border=true" />
 </div>
 
-<!-- Trophy Section -->
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=michaeldavidvinc1&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
+</div> -->
 
 <!-- Technologies Section -->
 <div align="center">
