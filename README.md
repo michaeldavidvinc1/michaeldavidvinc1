@@ -16,7 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=michaeldavidvinc1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/michaeldavidvinc1?label=Followers&style=social" alt="GitHub Followers" />
 </div>
-
 <br />
 
 <!-- About Me Section -->
