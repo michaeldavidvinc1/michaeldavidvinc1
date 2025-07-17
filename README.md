@@ -25,7 +25,7 @@
   <div align="left">
     <ul>
       <li>🔭 I'm currently working on <b>Laravel, MERN Stack, Golang, Next.js</b></li>
-      <li>🌱 I'm currently learning <b>Golang & Cloud Technologies</b></li>
+      <li>🌱 I'm currently learning <b>Golang & DevOps Technologies</b></li>
       <li>☁️ I have keen interest in <b>Web Development & Backend Architecture</b></li>
       <li>💬 Ask me about <b>JavaScript, React, Node.js, PHP, Laravel</b></li>
       <li>📫 Reach me at <b>michaeldavidvinc3006@gmail.com</b></li>
