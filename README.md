@@ -66,7 +66,7 @@
   <h2>💻 Technologies & Tools</h2>
   
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,go,html,css,python" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,go,html,css" alt="Languages"/>
   
   <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
