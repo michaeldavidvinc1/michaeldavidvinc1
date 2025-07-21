@@ -36,6 +36,7 @@
 
 <br clear="both"/>
 
+
 <!-- GitHub Stats Section -->
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
