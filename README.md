@@ -10,7 +10,6 @@
 <div align="center">
   <img alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 </div>
-
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=michaeldavidvinc1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
