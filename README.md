@@ -1,6 +1,7 @@
 <!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <!-- Header with Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Michael+David+Vinc+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%A4%93" alt="Typing SVG" />
