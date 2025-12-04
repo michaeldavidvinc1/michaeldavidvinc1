@@ -40,8 +40,8 @@
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   <div>
-    <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=michaeldavidvinc1" alt="tienhuynh-tn-langs"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+    <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=michaeldavidvinc1&show_icons=true" alt="michaeldavidvinc"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&show_icon=true&theme=algolia" alt="michaeldavidvinc"/>
   </div>
 </div>
 
