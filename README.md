@@ -40,14 +40,14 @@
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   <div>
-    <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=michaeldavidvinc1&layout=compact&theme=algolia" alt="michaeldavidvinc"/>
+    <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=michaeldavidvinc1&show_icons=true&theme=algolia" alt="michaeldavidvinc"/>
     <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&theme=algolia" alt="michaeldavidvinc"/>
   </div>
 </div>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=michaeldavidvinc1&show_icons=true&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=michaeldavidvinc1&theme=algolia" alt="GitHub Streak" />
   <!-- <img src="https://streak-stats.demolab.com?user=michaeldavidvinc1&theme=algolia" alt="GitHub Streak" /> -->
 </div>
 <!-- Activity Graph
