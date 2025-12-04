@@ -41,7 +41,7 @@
   <h2>📊 GitHub Statistics</h2>
   <div>
     <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=michaeldavidvinc1&show_icons=true" alt="michaeldavidvinc"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compac&theme=algolia" alt="michaeldavidvinc"/>
+    <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaeldavidvinc1\&layout=compact&theme=algolia" alt="michaeldavidvinc"/>
   </div>
 </div>
 
