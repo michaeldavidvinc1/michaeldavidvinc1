@@ -43,6 +43,7 @@
     <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&theme=algolia" alt="michaeldavidvinc"/>
   </div>
 </div>
+
 <!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=michaeldavidvinc1&theme=algolia" alt="GitHub Streak" />
