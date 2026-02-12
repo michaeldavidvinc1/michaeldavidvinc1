@@ -78,7 +78,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes" alt="Tools"/>
 </div>
 
-
 <!-- Quote -->
 <div align="center">
   <h2>💭 Dev Quote</h2>
