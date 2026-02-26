@@ -17,6 +17,7 @@
 </div>
 <br />
 <!-- About Me Section -->
+
 <div align="center">
   <h2>🚀 About Me</h2>
   <img align="right" width="300" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
