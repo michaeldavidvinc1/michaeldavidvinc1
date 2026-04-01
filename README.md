@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/github/followers/michaeldavidvinc1?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 <br />
-
 <!-- About Me Section -->
 <div align="center">
   <h2>🚀 About Me</h2>
