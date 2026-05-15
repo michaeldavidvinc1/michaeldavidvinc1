@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,php,go,html,css" alt="Languages"/>
   
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue" alt="Frontend"/>
   
   <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma,go" alt="Backend"/>
