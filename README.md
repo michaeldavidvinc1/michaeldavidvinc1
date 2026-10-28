@@ -37,8 +37,8 @@
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   <div>
-    <img width=400 src='https://github-readme-stats.vercel.app/api?username=michaeldavidvinc&theme=algolia&show_icons=true&hide_border=true&count_private=true' />
-    <img width=400 src='https://streak-stats.demolab.com?user=michaeldavidvinc&theme=algolia&hide_border=true' />
+    <img width=400 src='https://github-readme-stats.vercel.app/api?username=michaeldavidvinc1&theme=algolia&show_icons=true&hide_border=true&count_private=true' />
+    <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&theme=algolia&show_icons=true&hide_border=true&layout=compact' />
     <!-- <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=michaeldavidvinc1&show_icons=true&theme=algolia" alt="michaeldavidvinc"/>
     <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaeldavidvinc1&layout=compact&theme=algolia" alt="michaeldavidvinc"/> -->
   </div>
@@ -46,7 +46,7 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavidvinc1&theme=algoliak&show_icons=true&hide_border=true&layout=compact' />
+  <img width=400 src='https://streak-stats.demolab.com?user=michaeldavidvinc1&theme=algolia&hide_border=true' />
   <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=michaeldavidvinc1&theme=algolia" alt="GitHub Streak" /> -->
   <!-- <img src="https://streak-stats.demolab.com?user=michaeldavidvinc1&theme=algolia" alt="GitHub Streak" /> -->
 </div>
